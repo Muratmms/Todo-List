@@ -1,0 +1,93 @@
+.buton {
+    background-color: black;
+    color: white;
+  
+}
+
+.ekle {
+    background-color:bisque;
+    margin-left: 2%;
+    width: 25px;
+    height: 25px;
+}
+
+.sil {
+    width: 25px;
+    height: 25px;
+    background-color: bisque;
+    margin-left: 2%;
+
+}
+
+.clear {
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    margin: 16px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.liste-eleman {
+    color: black;
+    text-align: left;
+    padding: 5px;
+    border-bottom: 2px solid black;
+    
+}
+
+.big-container {
+    background-image: url('https://acar-store.com/wp-content/uploads/2022/06/blume-spiralli-cizgili-defter-ic.jpg');
+    background-size: cover; 
+    background-position: center; 
+    padding: 3px;
+    text-align: center;
+    width: 33%;
+    height: 400px;
+    background-color:burlywood;
+    overflow: auto;
+    border: 4px solid black;
+    position: relative;
+    
+    
+}
+
+.very-big-container {
+    border: 4px solid black;
+}
+
+.big-container2 {
+    background-image: url('https://sm.mashable.com/t/mashable_tr/photo/default/tik-isareti-nedir-ve-klavyede-nasil-yazilir_dqyh.1200.jpg');
+    background-size: cover; 
+    background-position: center; 
+    padding: 3px;
+    text-align: center;
+    width: 33%;
+    height: 400px;
+    background-color: gray;
+    overflow: auto;
+    border: 4px solid black;
+    position: relative;
+}
+
+.big-container3 {
+    background-image: url('https://pencilandpaper.io/wp-content/uploads/2021/02/PA_Loading.png');
+    background-size: cover; 
+    background-position: center; 
+    padding: 3px;
+    text-align: center;
+    width: 33%;
+    height: 400px;
+    background-color: gray;
+    overflow: auto;
+    border: 4px solid black;
+    position: relative;
+}
+
+.very-big-container {
+    position: relative;
+    display: flex;
+}
